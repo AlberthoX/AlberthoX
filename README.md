@@ -4,5 +4,5 @@
 - 🌱 Atualmente estou aprendendo progamar
 - 💞️ Estou procurando colaborar a empresa
 - 📫 Como chegar até mim - @pl7230233@gmail.com
-- 🐶 Doido por cachorros...
+- 🐶 Gosto de pets
 - 🎮 e Jogos :)
