@@ -1,6 +1,6 @@
 - 👋 Olá! sou @AlberthoX
 - Estudante de TI / Brasil - Alagoas
-- 👀 Estou interessado em uma área de Front end
+- 👀 Estou analisando a área que quero atuar!
 - 🌱 Atualmente estou aprendendo progamar
 - 💞️ Estou procurando colaborar a empresa
 - 📫 Como chegar até mim - @pl7230233@gmail.com
