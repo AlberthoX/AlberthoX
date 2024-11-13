@@ -1,5 +1,5 @@
 - 👋 Olá! sou @AlberthoX
-- Estudante de TI / Brasil - Alagoas
+- Estudante Full Stack / Brasil - Alagoas
 - 👀 Estou analisando a área que quero atuar!
 - 🌱 Atualmente estou aprendendo progamar
 - 💞️ Estou procurando colaborar a empresa
