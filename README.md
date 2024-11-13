@@ -1,9 +1,8 @@
 - 👋 Olá! sou Albertho Pedro
 - Estudante Full Stack / Brasil - Alagoas
-- 👀 Estou analisando a área que quero atuar!
-- 🌱 Atualmente estou aprendendo progamar
-- 💞️ Estou procurando colaborar a empresa
-- 📫 Como chegar até mim - @pl7230233@gmail.com
+- 👀 Estou interessado em desenvolvimento Front-end
+- 🌱 Estudando Back-end...
+- 📫 Como chegar até mim - @pl7230233@gmail.com / 82999655046
 
 
 
