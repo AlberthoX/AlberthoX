@@ -2,7 +2,7 @@
 - Estudante Full Stack / Brasil - Alagoas
 - 👀 Estou interessado em desenvolvimento Front-end
 - 🌱 Estudando Back-end...
-- 📫 Como chegar até mim - @pl7230233@gmail.com / 82999655046
+- 📫 Como chegar até mim - @pl7230233@gmail.com
 
 
 
