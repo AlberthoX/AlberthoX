@@ -1,4 +1,4 @@
-- 👋 Olá! sou @AlberthoX
+- 👋 Olá! sou Albertho Pedro
 - Estudante Full Stack / Brasil - Alagoas
 - 👀 Estou analisando a área que quero atuar!
 - 🌱 Atualmente estou aprendendo progamar
