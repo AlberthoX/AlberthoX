@@ -2,7 +2,7 @@
 - 📫 Como chegar até mim - @pl7230233@gmail.com
 
 ##
-• Minhas linguagens de programação
+- Minhas linguagens de programação
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,postgres)](https://skillicons.dev)
 
