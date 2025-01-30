@@ -3,7 +3,7 @@
 
 
   • Minhas linguagens de programação
-   https://skillicons.dev/icons?i=js,html,css,java,postgres)](https://skillicons.dev
+   https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev
 
 
 
