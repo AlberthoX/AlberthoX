@@ -1,5 +1,8 @@
-- 👋 Olá! sou Albertho Pedro
-- 📫 Como chegar até mim  @pl7230233@gmail.com
+- 👋 Olá, sou Albertho Pedro!
+- 📫 Como chegar até mim  @pl7230233@gmail.com;
+- 20 anos;
+- Brasil - AL;
+- 💻 Estou interessado em desenvolvimento web.
 
 ##
 - Minhas linguagens de programação
